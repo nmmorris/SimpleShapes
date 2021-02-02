@@ -1,12 +1,7 @@
-## Empty Example for P5.js
-#### by Scott Kildall
+## Simple Shapes for P5.js
+#### by Natalie Morris
 
 
 
 ### Overview
-This is a modified version of the p5.js Empty Example that simplifies the directory structure
-
-
-### Technical Details
-
-Modify the sketch.js setup() and draw() functions and begin adding functions!
+Simple Shapes exercise for Interaction Design.
